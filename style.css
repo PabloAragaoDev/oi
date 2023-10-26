@@ -1,7 +1,14 @@
-body{
+*body {
     
-    font-family: long-shot;
-    background-color: blue;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    background-color: black;
     color: aliceblue;
 
+}
+
+img {
+
+    width: 10%;
+    height: 10%;
+    align-items: center;
 }
